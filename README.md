@@ -30,8 +30,9 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
+```
 
+This project uses the credit card fraud dataset available from Kaggle.
 
-
-
+![image](https://github.com/user-attachments/assets/6b96f147-809f-480a-a2c5-13042d026134)
 
